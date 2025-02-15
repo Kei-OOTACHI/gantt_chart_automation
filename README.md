@@ -1,0 +1,2 @@
+# gantt_chart_automation
+ガントチャート自動化システムのコンテナバインドスクリプト
